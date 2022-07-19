@@ -28,7 +28,7 @@
 
      <!-- http或者https链接的ipa文件地址 -->
 
-     <string>https://github.com/chouchou723/halo-dcmp/blob/main/app.ipa?raw=true</string>
+     <string>https://raw.githubusercontent.com/chouchou723/halo-dcmp/main/app.ipa</string>
 
     </dict>
 
@@ -46,7 +46,7 @@
 
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
 
-     <string>https://github.com/chouchou723/halo-dcmp/blob/main/icon-29@3x.png?raw=true</string>
+     <string>https://raw.githubusercontent.com/chouchou723/halo-dcmp/main/icon-29%403x.png</string>
 
     </dict>
 
@@ -64,7 +64,7 @@
 
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
 
-     <string>https://github.com/chouchou723/halo-dcmp/blob/main/icon-29@3x.png?raw=true</string>
+     <string>https://raw.githubusercontent.com/chouchou723/halo-dcmp/main/icon-29%403x.png</string>
 
     </dict>
 
