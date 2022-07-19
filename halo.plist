@@ -28,7 +28,7 @@
 
      <!-- http或者https链接的ipa文件地址 -->
 
-     <string>http://172.16.5.241:8080/upload/app.ipa</string>
+     <string>https://github.com/chouchou723/halo-dcmp/blob/main/app.ipa?raw=true</string>
 
     </dict>
 
